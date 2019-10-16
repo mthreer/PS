@@ -1,0 +1,128 @@
+Checking licenses towards Firstname Lastname4 (firstname.lastname4@domain.se) with objectID 782529f0-0aac-4729-be5f-6a60b115638d
+Title: Teacher Department: Schoolname here
+
+Objects assigning licenses:
+
+APP_O365_LICENS_E1 (6ab9fa9f-3bf6-43e1-8897-e88956b56119)
+firstname.lastname4@domain.se (782529f0-0aac-4729-be5f-6a60b115638d)
+
+Per Group Disabled/Enabled Services:
+
+APP_O365_LICENS_E1
+uppsalakommun1:STANDARDPACK:OFFICEMOBILE_SUBSCRIPTION                 Enabled
+uppsalakommun1:STANDARDPACK:BPOS_S_TODO_1                             Disabled
+uppsalakommun1:STANDARDPACK:FORMS_PLAN_E1                             Disabled
+uppsalakommun1:STANDARDPACK:STREAM_O365_E1                            Disabled
+uppsalakommun1:STANDARDPACK:Deskless                                  Disabled
+uppsalakommun1:STANDARDPACK:FLOW_O365_P1                              Disabled
+uppsalakommun1:STANDARDPACK:POWERAPPS_O365_P1                         Disabled
+uppsalakommun1:STANDARDPACK:TEAMS1                                    Disabled
+uppsalakommun1:STANDARDPACK:SHAREPOINTWAC                             Disabled
+uppsalakommun1:STANDARDPACK:PROJECTWORKMANAGEMENT                     Disabled
+uppsalakommun1:STANDARDPACK:SWAY                                      Disabled
+uppsalakommun1:STANDARDPACK:INTUNE_O365                               Enabled
+uppsalakommun1:STANDARDPACK:YAMMER_ENTERPRISE                         Disabled
+uppsalakommun1:STANDARDPACK:MCOSTANDARD                               Enabled
+uppsalakommun1:STANDARDPACK:SHAREPOINTSTANDARD                        Disabled
+uppsalakommun1:STANDARDPACK:EXCHANGE_S_STANDARD                       Enabled
+
+uppsalakommun1:EMS:EXCHANGE_S_FOUNDATION                              Enabled
+uppsalakommun1:EMS:ADALLOM_S_DISCOVERY                                Disabled
+uppsalakommun1:EMS:RMS_S_PREMIUM                                      Disabled
+uppsalakommun1:EMS:INTUNE_A                                           Disabled
+uppsalakommun1:EMS:RMS_S_ENTERPRISE                                   Disabled
+uppsalakommun1:EMS:AAD_PREMIUM                                        Enabled
+uppsalakommun1:EMS:MFA_PREMIUM                                        Disabled
+
+SkuPacks from groups:
+
+uppsalakommun1:EMS
+uppsalakommun1:STANDARDPACK
+
+SkuPacks directly licensed on user
+
+uppsalakommun1:STANDARDWOFFPACK_FACULTY
+
+LicensePack (SkuID)                          ;Service                                           ;Status                 ;GroupAssignedService     ;Source            ;Groups
+uppsalakommun1:EMS                           ;EXCHANGE_S_FOUNDATION (Exchange)                  ;PendingProvisioning    ;Enabled                  ;Group             ;APP_O365_LICENS_E1
+uppsalakommun1:EMS                           ;ADALLOM_S_DISCOVERY (Adallom)                     ;Disabled               ;Disabled                 ;
+uppsalakommun1:EMS                           ;RMS_S_PREMIUM (RMSOnline)                         ;Disabled               ;Disabled                 ;
+uppsalakommun1:EMS                           ;INTUNE_A (SCO)                                    ;Disabled               ;Disabled                 ;
+uppsalakommun1:EMS                           ;RMS_S_ENTERPRISE (RMSOnline)                      ;Disabled               ;Disabled                 ;
+uppsalakommun1:EMS                           ;AAD_PREMIUM (AADPremiumService)                   ;Success                ;Enabled                  ;Group             ;APP_O365_LICENS_E1
+uppsalakommun1:EMS                           ;MFA_PREMIUM (MultiFactorService)                  ;Disabled               ;Disabled                 ;
+
+uppsalakommun1:STANDARDPACK                  ;OFFICEMOBILE_SUBSCRIPTION (MicrosoftOffice)       ;Success                ;Enabled                  ;Group             ;APP_O365_LICENS_E1
+uppsalakommun1:STANDARDPACK                  ;BPOS_S_TODO_1 (To-Do)                             ;Disabled               ;Disabled                 ;
+uppsalakommun1:STANDARDPACK                  ;FORMS_PLAN_E1 (OfficeForms)                       ;Disabled               ;Disabled                 ;
+uppsalakommun1:STANDARDPACK                  ;STREAM_O365_E1 (Microsoftstream)                  ;Disabled               ;Disabled                 ;
+uppsalakommun1:STANDARDPACK                  ;Deskless (Deskless)                               ;Disabled               ;Disabled                 ;
+uppsalakommun1:STANDARDPACK                  ;FLOW_O365_P1 (ProcessSimple)                      ;Disabled               ;Disabled                 ;
+uppsalakommun1:STANDARDPACK                  ;POWERAPPS_O365_P1 (PowerAppsService)              ;Disabled               ;Disabled                 ;
+uppsalakommun1:STANDARDPACK                  ;TEAMS1 (TeamspaceAPI)                             ;Disabled               ;Disabled                 ;
+uppsalakommun1:STANDARDPACK                  ;SHAREPOINTWAC (SharePoint)                        ;Disabled               ;Disabled                 ;
+uppsalakommun1:STANDARDPACK                  ;PROJECTWORKMANAGEMENT (ProjectWorkManagement)     ;Disabled               ;Disabled                 ;
+uppsalakommun1:STANDARDPACK                  ;SWAY (Sway)                                       ;Disabled               ;Disabled                 ;
+uppsalakommun1:STANDARDPACK                  ;INTUNE_O365 (SCO)                                 ;PendingActivation      ;Enabled                  ;Group             ;APP_O365_LICENS_E1
+uppsalakommun1:STANDARDPACK                  ;YAMMER_ENTERPRISE (YammerEnterprise)              ;Disabled               ;Disabled                 ;
+uppsalakommun1:STANDARDPACK                  ;MCOSTANDARD (MicrosoftCommunicationsOnline)       ;Success                ;Enabled                  ;Group             ;APP_O365_LICENS_E1
+uppsalakommun1:STANDARDPACK                  ;SHAREPOINTSTANDARD (SharePoint)                   ;Disabled               ;Disabled                 ;
+uppsalakommun1:STANDARDPACK                  ;EXCHANGE_S_STANDARD (Exchange)                    ;Success                ;Enabled                  ;Group             ;APP_O365_LICENS_E1
+
+uppsalakommun1:STANDARDWOFFPACK_FACULTY      ;OFFICEMOBILE_SUBSCRIPTION (MicrosoftOffice)       ;Success                ;False                    ;Direct
+uppsalakommun1:STANDARDWOFFPACK_FACULTY      ;BPOS_S_TODO_2 (To-Do)                             ;Success                ;False                    ;Direct
+uppsalakommun1:STANDARDWOFFPACK_FACULTY      ;AAD_BASIC_EDU (AADPremiumService)                 ;Success                ;False                    ;Direct
+uppsalakommun1:STANDARDWOFFPACK_FACULTY      ;SCHOOL_DATA_SYNC_P1 (Homeroom)                    ;Success                ;False                    ;Direct
+uppsalakommun1:STANDARDWOFFPACK_FACULTY      ;STREAM_O365_E3 (Microsoftstream)                  ;Success                ;False                    ;Direct
+uppsalakommun1:STANDARDWOFFPACK_FACULTY      ;TEAMS1 (TeamspaceAPI)                             ;Success                ;False                    ;Direct
+uppsalakommun1:STANDARDWOFFPACK_FACULTY      ;Deskless (Deskless)                               ;Success                ;False                    ;Direct
+uppsalakommun1:STANDARDWOFFPACK_FACULTY      ;FLOW_O365_P2 (ProcessSimple)                      ;Disabled               ;False                    ;
+uppsalakommun1:STANDARDWOFFPACK_FACULTY      ;POWERAPPS_O365_P2 (PowerAppsService)              ;Disabled               ;False                    ;
+uppsalakommun1:STANDARDWOFFPACK_FACULTY      ;RMS_S_ENTERPRISE (RMSOnline)                      ;Disabled               ;False                    ;
+uppsalakommun1:STANDARDWOFFPACK_FACULTY      ;OFFICE_FORMS_PLAN_2 (OfficeForms)                 ;Disabled               ;False                    ;
+uppsalakommun1:STANDARDWOFFPACK_FACULTY      ;PROJECTWORKMANAGEMENT (ProjectWorkManagement)     ;Disabled               ;False                    ;
+uppsalakommun1:STANDARDWOFFPACK_FACULTY      ;SWAY (Sway)                                       ;Disabled               ;False                    ;
+uppsalakommun1:STANDARDWOFFPACK_FACULTY      ;INTUNE_O365 (SCO)                                 ;PendingActivation      ;False                    ;Direct
+uppsalakommun1:STANDARDWOFFPACK_FACULTY      ;YAMMER_EDU (YammerEnterprise)                     ;Disabled               ;False                    ;
+uppsalakommun1:STANDARDWOFFPACK_FACULTY      ;SHAREPOINTWAC_EDU (SharePoint)                    ;Disabled               ;False                    ;
+uppsalakommun1:STANDARDWOFFPACK_FACULTY      ;MCOSTANDARD (MicrosoftCommunicationsOnline)       ;Success                ;False                    ;Direct
+uppsalakommun1:STANDARDWOFFPACK_FACULTY      ;SHAREPOINTSTANDARD_EDU (SharePoint)               ;Disabled               ;False                    ;
+uppsalakommun1:STANDARDWOFFPACK_FACULTY      ;EXCHANGE_S_STANDARD (Exchange)                    ;Success                ;False                    ;Direct
+
+DEBUG:
+uppsalakommun1:EMS:ADALLOM_S_DISCOVERY was found disabled in: APP_O365_LICENS_E1
+uppsalakommun1:EMS:RMS_S_PREMIUM was found disabled in: APP_O365_LICENS_E1
+uppsalakommun1:EMS:INTUNE_A was found disabled in: APP_O365_LICENS_E1
+uppsalakommun1:EMS:RMS_S_ENTERPRISE was found disabled in: APP_O365_LICENS_E1
+uppsalakommun1:EMS:MFA_PREMIUM was found disabled in: APP_O365_LICENS_E1
+uppsalakommun1:STANDARDPACK:BPOS_S_TODO_1 was found disabled in: APP_O365_LICENS_E1
+uppsalakommun1:STANDARDPACK:FORMS_PLAN_E1 was found disabled in: APP_O365_LICENS_E1
+uppsalakommun1:STANDARDPACK:STREAM_O365_E1 was found disabled in: APP_O365_LICENS_E1
+uppsalakommun1:STANDARDPACK:Deskless was found disabled in: APP_O365_LICENS_E1
+uppsalakommun1:STANDARDPACK:FLOW_O365_P1 was found disabled in: APP_O365_LICENS_E1
+uppsalakommun1:STANDARDPACK:POWERAPPS_O365_P1 was found disabled in: APP_O365_LICENS_E1
+uppsalakommun1:STANDARDPACK:TEAMS1 was found disabled in: APP_O365_LICENS_E1
+uppsalakommun1:STANDARDPACK:SHAREPOINTWAC was found disabled in: APP_O365_LICENS_E1
+uppsalakommun1:STANDARDPACK:PROJECTWORKMANAGEMENT was found disabled in: APP_O365_LICENS_E1
+uppsalakommun1:STANDARDPACK:SWAY was found disabled in: APP_O365_LICENS_E1
+uppsalakommun1:STANDARDPACK:YAMMER_ENTERPRISE was found disabled in: APP_O365_LICENS_E1
+uppsalakommun1:STANDARDPACK:SHAREPOINTSTANDARD was found disabled in: APP_O365_LICENS_E1
+
+Validating Directly licensed SKU: uppsalakommun1:STANDARDWOFFPACK_FACULTY
+
+OFFICEMOBILE_SUBSCRIPTION     (Not critical)    Is redundant        uppsalakommun1:STANDARDWOFFPACK_FACULTY can be removed
+BPOS_S_TODO_2                 (Not critical)    Is NOT redundant    uppsalakommun1:STANDARDWOFFPACK_FACULTY can be removed
+AAD_BASIC_EDU                 (Not critical)    Is NOT redundant    uppsalakommun1:STANDARDWOFFPACK_FACULTY can be removed
+SCHOOL_DATA_SYNC_P1           (Not critical)    Is NOT redundant    uppsalakommun1:STANDARDWOFFPACK_FACULTY can be removed
+STREAM_O365_E3                (Not critical)    Is NOT redundant    uppsalakommun1:STANDARDWOFFPACK_FACULTY can be removed
+TEAMS1                        (Critical)        Is NOT redundant    uppsalakommun1:STANDARDWOFFPACK_FACULTY can NOT be removed
+Deskless                      (Not critical)    Is NOT redundant    uppsalakommun1:STANDARDWOFFPACK_FACULTY can be removed
+INTUNE_O365                   (Not critical)    Is redundant        uppsalakommun1:STANDARDWOFFPACK_FACULTY can be removed
+MCOSTANDARD                   (Not critical)    Is redundant        uppsalakommun1:STANDARDWOFFPACK_FACULTY can be removed
+EXCHANGE_S_STANDARD           (Critical)        Is redundant        uppsalakommun1:STANDARDWOFFPACK_FACULTY can be removed
+
+Would you like to override above and continue removing uppsalakommun1:STANDARDWOFFPACK_FACULTY? (Default is No)
+
+Removing uppsalakommun1:STANDARDWOFFPACK_FACULTY from firstname.lastname4@domain.se
+
+Script took 4,962 seconds to run.
